@@ -6,9 +6,9 @@ I'll primarily focus on leadsheets of the rock/jazz type, since more classical f
 
 ## Features
 * heavy use of variables to 
-* * make modular composition easier, 
-* * make code more structured
-* * reduce typing/copy-paste work  
+  * make modular composition easier, 
+  * make code more structured
+  * reduce typing/copy-paste work  
 * (planned) book context to string it all together
 * leadsheet template for melody, text (several verses) and chords
 * leadsheet for melody, text, chords and separate verses 2-n
