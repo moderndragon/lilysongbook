@@ -5,10 +5,7 @@ A collections of lilypond templates for singer/songwriter uses. This should *not
 I'll primarily focus on leadsheets of the rock/jazz type, since more classical forms like SATB choir arrangement are already given in the lilypond documentation.
 
 ## Features
-* heavy use of variables to  
-** make modular composition easier
-** make code more structured
-** reduce typing/copy-paste work
+* heavy use of variables to make modular composition easier, make code more structured & reduce typing/copy-paste work  
 * (planned) book context to string it all together
 * leadsheet template for melody, text (several verses) and chords
 * leadsheet for melody, text, chords and separate verses 2-n
