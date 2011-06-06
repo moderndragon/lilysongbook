@@ -2,10 +2,10 @@
 
 A collections of lilypond templates for singer/songwriter uses. This should *not* replace the templates in the lilypond documentation or the snippets given there; it aims to collect all the pieces I hack together & want to keep for future use in one place.
 
-I'll primarily focus on leadsheets for singer/
+I'll primarily focus on leadsheets of the rock/jazz type, since more classical forms like SATB choir arrangement are already given in the lilypond documentation.
 
 ## Features
-* heavy use of variables to
+* heavy use of variables to  
 ** make modular composition easier
 ** make code more structured
 ** reduce typing/copy-paste work
