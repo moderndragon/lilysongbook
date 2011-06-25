@@ -1,8 +1,9 @@
-# LilySongBook
+# LilySongBook ![isgitflowed logo](http://isgitflowed.com/gitflowed_68x13.png)
+
 
 A collections of lilypond templates for singer/songwriter uses. This should *not* replace the templates in the lilypond documentation or the snippets given there; it aims to collect all the pieces I hack together & want to keep for future use in one place.
 
-I'll primarily focus on leadsheets of the rock/jazz type, since more classical forms like SATB choir arrangement are already given in the lilypond documentation.
+I will primarily focus on leadsheets of the rock/jazz type, since more classical forms like SATB choir arrangement are already given in the lilypond documentation.
 
 ## Features
 * heavy use of variables to 
