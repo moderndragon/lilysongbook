@@ -15,7 +15,7 @@ Akkorde = \chords { % Begleitakkorde werden hier notiert / chords go here %
 		} 
 
 StropheEins = \lyricmode {
-		aaa bbb
+		aaa bbb ccc ddd
 	}
 
 
@@ -29,13 +29,13 @@ Oberstimme = \relative c' {	\tempo 4. = 66
 Hauptstimme = \relative c' {
 	\new Voice = "hauptstimme" {
 		\voiceTwo
-		a a b c b c c2.
+		a'2 a4 b c1
 	  	}
 	}
 
 Unterstimme = \relative c' {
 	\new Staff {
-		a8 a g e a a g2.
+		a'2 a4 g e1
 		}
 	}
 
