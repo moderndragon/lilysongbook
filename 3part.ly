@@ -6,12 +6,12 @@
   }
 
 global = {
-	\tempo 4. = 66
-	\time 4/4 
+	\tempo 4 = 66
+	\time 4/4
 }
 
 Akkorde = \chords { % Begleitakkorde werden hier notiert / chords go here % 
-		a2.:m c
+		a1:m c
 		} 
 
 StropheEins = \lyricmode {
