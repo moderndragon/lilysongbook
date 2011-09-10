@@ -1,13 +1,13 @@
 \version "2.12.3"
 \header {
   title = "your title"
-  poet = "T:"
-  composer = "M: "
+  poet = "T: poet"
+  composer = "M: composer"
   }
 
 global = {
-	\tempo 4 = 66
 	\time 4/4
+	\tempo 4 = 66
 }
 
 Akkorde = \chords { % Begleitakkorde werden hier notiert / chords go here % 
